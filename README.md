@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an IT Engineer, specializing in Web Development, UI/UX Designing, and Media Production with a strong background in Cybertech and AI.
+I am an IT student, specializing in Web Development, UI/UX Designing, and Media Production with a strong background in Cybertech and AI.
 
 
 ## 🌐 Socials:
