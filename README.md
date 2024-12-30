@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍🎓About Me:
 I am an IT   Student, specializing in Web Development, UI/UX Designing, and Media Production with a strong background in Cybertech and AI.
 
 
