@@ -3,7 +3,10 @@
 👋  I'm specifically focusing on Solana Blockchain, Smart Contract Development, and Rust Programming.<br>
 💡 I have experience in Frontend & Backend Development, and I'm now diving deep into Web3 & Decentralized Applications (dApps). <br> <br>
 
-📸 In my free time, I love doing photography and content creation. 
+📸 In my free time, I love doing photography and content creation. <br>
+🌐 <strong>For more connections and info about me, visit my portfolio website:</strong><br>
+  [**https://isiahgriffin.no/**](https://isiahgriffin.no/)
+
 
 ## 📖 Currently Learning 
 🔹 Solana Smart Contract Development (Rust, Anchor Framework)
