@@ -1,9 +1,11 @@
 # 👨‍🎓About Me:
 👋 Hi, I'm Isiah, a passionate developer currently expanding my skills in Blockchain Development. <br>
-  I'm specifically focusing on Solana Blockchain, Smart Contract Development, and Rust Programming.<br>
-💡 I have experience in Frontend & Backend Development, and I'm now diving deep into Web3 & Decentralized Applications (dApps).
+    I'm specifically focusing on Solana Blockchain, Smart Contract Development, and Rust Programming.<br>
+💡 I have experience in Frontend & Backend Development, and I'm now diving deep into Web3 & Decentralized Applications (dApps). <br> <br>
 
-## 📖 Currently Learning
+📸 In my free time, I love doing photography and content creation. 
+
+## 📖 Currently Learning 
 🔹 Solana Smart Contract Development (Rust, Anchor Framework)
 🔹 Blockchain Security & Optimization
 🔹 Web3.js & dApp Development
