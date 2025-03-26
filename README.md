@@ -4,8 +4,7 @@
 💡 I have experience in Frontend & Backend Development, and I'm now diving deep into Web3 & Decentralized Applications (dApps). <br> <br>
 
 📸 In my free time, I love doing photography and content creation. <br>
-🌐 <strong>For more connections and info about me, visit my portfolio website:</strong><br>
-  [**https://isiahgriffin.no/**](https://isiahgriffin.no/)
+🌐 <strong>For more connections and info about me, visit my portfolio website:</strong> [**https://isiahgriffin.no/**](https://isiahgriffin.no/)
 
 
 ## 📖 Currently Learning 
