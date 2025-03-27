@@ -1,4 +1,4 @@
-![image](https://github.com/https://iktagder-my.sharepoint.com/:i:/g/personal/afs0024458_agderskolen_no/EVjEFH4tmcZAmSFBoPi28HEB-71sOdH8MpzwKRiAAE11pw?e=WTT1Uj)
+![image](https://github.com/Griffin250/Griffin250/blob/main/Banner.png?raw=true)
 ### 👨‍🎓About Me:
 👋 Hi, I'm Isiah, a passionate developer currently expanding my skills in Blockchain Development. <br>
 👋  I'm specifically focusing on Solana Blockchain, Smart Contract Development, and Rust Programming.<br>
